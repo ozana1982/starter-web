@@ -1,4 +1,5 @@
 Add rebase example1
+Modificare dupa master
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
@@ -13,4 +14,4 @@ Deployment
 
 Ozana
 
-Ultima Linie
+ltima Linie

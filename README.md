@@ -1,3 +1,4 @@
+Add rebase example1
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
